@@ -1,0 +1,1 @@
+rediret_admin();
