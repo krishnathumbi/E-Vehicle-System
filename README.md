@@ -1,0 +1,2 @@
+# E-Vehicle-System
+The project entitled “E- Vehicle System” is a PHP based web application for vehicle rental and cab pooling purposes. It aimed on help the people to find the easiest way to travel for short as well as outside the state, provides online vehicle reservation facility and online payment facility. We provide all kinds of facilities such as rent, cab and pool our vehicles of your choice.
